@@ -2,7 +2,15 @@
 
 Esta demostración se trata de una API Restful más una página que muestra un listado de clientes usando React Vite muy sencilla de cómo se utilizan algunas fórmulas o cálculos para diversas operaciones financieras de una entidad bancaria.En este ejemplo hacemos uso de .NET Core, como ORM Microsoft EF (**_Entity Framework Core_**) ([ver más](https://learn.microsoft.com/en-us/ef/)) y una base de datos PostgreSQL ([ver más](https://www.postgresql.org/)). 
 
-![Captura](document/spa-capture.png)
+## Algunas Capturas de Pantalla
+
+![Captura](document/spa-capture_01.png) 
+
+![Captura](document/spa-capture_02.png) 
+
+![Captura](document/spa-capture_03.png) 
+
+![Captura](document/spa-capture_04.png) 
 
 ---
 
